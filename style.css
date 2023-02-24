@@ -1,0 +1,15 @@
+a {
+  margin-top: 50px;
+}
+
+button {
+  margin-top: 20px;
+  background-color: green;
+  color: white;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
