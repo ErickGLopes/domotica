@@ -33,8 +33,8 @@ ported for sparkfun esp32
 int estado_sala = 0;
 int estado_quarto = 0;
 int estado_cozinha = 0;
-const char* ssid     = "Janaina";
-const char* password = "Wxi0767.";
+const char* ssid     = "Ez";
+const char* password = "12345678";
 
 
 WiFiServer server(80);
