@@ -8,6 +8,7 @@
 - ESP32 DEVKIT V1
 - 3 LEDs
 - 6 Resistores de 100Ω (2 para cada LED, podendo ser substituidos por 1 de 150Ω para cada LED)
+- Protoboard
 - Jumpers MxF e MxM
 - [Arduino IDE]("https://www.arduino.cc/en/software")
 
