@@ -1,7 +1,7 @@
 # Projetos e atividades de domótica
 ## Mini automação da iluminação (sala, quarto, cozinha)
 
-<img width="50%" height="50%" src="https://github.com/ErickGLopes/media/blob/main/domotica/Controle%20dos%20LEDs.png" alt="tela_e_montagem">
+<img width="90%" height="90%" src="https://github.com/ErickGLopes/media/blob/main/domotica/Controle%20dos%20LEDs.png" alt="tela_e_montagem">
 
 
 ### Materiais usados
@@ -11,6 +11,11 @@
 - Protoboard
 - Jumpers MxF e MxM
 - [Arduino IDE]("https://www.arduino.cc/en/software")
+
+#
+
+### Montagem
+![montagem](https://github.com/ErickGLopes/media/blob/main/domotica/Screenshot_20230228_062913_Chrome.png)
 
 #
 
