@@ -1,6 +1,19 @@
-### Projetos e atividades de domótica
-- Mini automação da iluminação (sala, quarto, cozinha)
+# Projetos e atividades de domótica
+## Mini automação da iluminação (sala, quarto, cozinha)
 
 <img width="50%" height="50%" src="https://github.com/ErickGLopes/media/blob/main/domotica/Controle%20dos%20LEDs.png" alt="tela_e_montagem">
 
- - [Código](https://github.com/ErickGLopes/domotica/blob/main/domotica001.ino)
+
+### Materiais usados
+- ESP32 DEVKIT V1
+- 3 LEDs
+- 6 Resistores de 100Ω (2 para cada LED, podendo ser substituidos por 1 de 150Ω para cada LED)
+- Jumpers MxF e MxM
+- [Arduino IDE]("https://www.arduino.cc/en/software")
+
+#
+
+ ### > [Código](https://github.com/ErickGLopes/domotica/blob/main/domotica001.ino)
+ ### > [Vídeo do funcionamento](https://youtu.be/zHPpHkLxpFI)
+ 
+ 
